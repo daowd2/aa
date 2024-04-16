@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "914692562352",
+    "project_id": "caramel-1-5d932",
+    "storage_bucket": "caramel-1-5d932.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914692562352:android:570d6ea5d034a2f8fc8a75",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvLvXhOAxQyXusuCyn-BsBaNXU9zeCjb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
